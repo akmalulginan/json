@@ -8,8 +8,15 @@
             {
                 "text" : "Halo ini adalah json-api response text bubble 2",
                 "type" : "text"
+            },
+            {
+                "variable" : {
+                    "job" : "programmer"
+                }
             }
-        ]
+        ],
+        "name" : "akmal",
+        "address" : "sukabumi"
     },
     "button" : {
         "chats": [
