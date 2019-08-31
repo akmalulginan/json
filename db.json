@@ -12,7 +12,8 @@
             {
                 "variable" : {
                     "job" : "programmer"
-                }
+                },
+                "type" : "variable"
             }
         ],
         "name" : "akmal",
