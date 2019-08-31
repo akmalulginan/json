@@ -1,0 +1,42 @@
+{
+    "text" : {
+        "chats": [
+            {
+                "text" : "Halo ini adalah json-api response text bubble 1",
+                "type" : "text"
+            },
+            {
+                "text" : "Halo ini adalah json-api response text bubble 2",
+                "type" : "text"
+            }
+        ]
+    },
+    "button" : {
+        "chats": [
+            {
+                "text" : "Halo ini adalah json-api response text bubble 1",
+                "type" : "button",
+                "buttons" : [
+                    {
+                        "label" : "google",
+                        "type": "url",
+                        "url" : "google.com"
+                    },
+                    {
+                        "label" : "vutura",
+                        "type": "url",
+                        "url" : "vutura.io"
+                    },
+                    {
+                        "label" : "greeting",
+                        "type": "path",
+                        "path" : "5c0f63d31a36540718d2000b",
+                        "variable" : {
+                            "bot_name" : "dadang"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
