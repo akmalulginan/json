@@ -40,7 +40,8 @@
                         "type": "path",
                         "path" : "5c0f63d31a36540718d2000b",
                         "variable" : {
-                            "bot_name" : "dadang"
+                            "bot_name" : "GINBOT",
+                            "device":"SURFACE"
                         }
                     }
                 ]
