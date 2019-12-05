@@ -2,27 +2,25 @@
     "text" : {
         "chats": [
             {
-                "text" : "Halo ini adalah json-api response text bubble 1",
+                "text" : "Halo {{end_user_name}}, ini adalah json-api response text bubble 1",
                 "type" : "text"
             },
             {
-                "text" : "Halo ini adalah json-api response text bubble 2",
+                "text" : "ini adalah json-api response text bubble 2",
                 "type" : "text"
             },
             {
                 "variable" : {
-                    "job" : "programmer"
+                    "company" : "Vutura"
                 },
                 "type" : "variable"
             }
-        ],
-        "name" : "akmal",
-        "address" : "sukabumi"
+        ]
     },
     "button" : {
         "chats": [
             {
-                "text" : "Halo ini adalah json-api response text bubble 1",
+                "text" : "Halo ini adalah json-api response text bubble 1, dengan buttons",
                 "type" : "button",
                 "buttons" : [
                     {
@@ -34,15 +32,6 @@
                         "label" : "vutura",
                         "type": "url",
                         "url" : "vutura.io"
-                    },
-                    {
-                        "label" : "greeting",
-                        "type": "path",
-                        "path" : "5c0f63d31a36540718d2000b",
-                        "variable" : {
-                            "bot_name" : "GINBOT",
-                            "device":"SURFACE"
-                        }
                     }
                 ]
             }
