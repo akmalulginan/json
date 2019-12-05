@@ -22,6 +22,10 @@
             {
                 "image_url" : "https://storage.googleapis.com/vutura/assets/images/WIN_20191205_15_37_49_Pro.jpg",
                 "type" : "image"
+            },
+            {
+                "text" : "HEHEHEHE",
+                "type" : "text"
             }
         ]
     },
