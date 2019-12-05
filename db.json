@@ -20,7 +20,7 @@
      "image" : {
         "chats": [
             {
-                "image_url" : "https://trello-attachments.s3.amazonaws.com/58a60e8ac451fdaa326f7983/5add6bec13f235fa18c4bbfc/ce75cdd871ce2bbbdeba4cbed596cd6f/WIN_20191205_15_37_49_Pro.jpg",
+                "image_url" : "https://storage.googleapis.com/vutura/assets/images/WIN_20191205_15_37_49_Pro.jpg",
                 "type" : "image"
             }
         ]
