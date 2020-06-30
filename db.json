@@ -48,5 +48,26 @@
                 ]
             }
         ]
-    }
+    },
+    "data" : {
+	"key": "val",
+	"arr": [
+		"satu",
+		"dua"
+	],
+	"arrObj": [
+		{
+			"arb1": "asdadsad",
+			"arb2": [
+				"mmmm"
+			]
+		}
+	],
+	"obj": {
+		"aaa": "bbb",
+		"cccc": {
+			"ddd": "xxx"
+		}
+	}
+}
 }
