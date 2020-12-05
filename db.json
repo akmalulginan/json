@@ -1,73 +1,81 @@
 {
-    "text" : {
+    "text": {
         "chats": [
             {
-                "text" : "Halo {{end_user_name}}, ini adalah json-api response text bubble 1",
-                "type" : "text"
+                "text": "Halo {{end_user_name}}, ini adalah json-api response text bubble 1",
+                "type": "text"
             },
             {
-                "text" : "ini adalah json-api response text bubble 2",
-                "type" : "text"
+                "text": "ini adalah json-api response text bubble 2",
+                "type": "text"
             },
             {
-                "variable" : {
-                    "company" : "Vutura"
+                "variable": {
+                    "company": "Vutura"
                 },
-                "type" : "variable"
+                "type": "variable"
             }
         ]
     },
-     "image" : {
+    "lando": {
         "chats": [
             {
-                "image_url" : "https://storage.googleapis.com/vutura/assets/images/WIN_20191205_15_37_49_Pro.jpg",
-                "type" : "image"
+                "type": "text",
+                "text": "JNE Express - REG*"
+            }
+        ]
+    },
+    "image": {
+        "chats": [
+            {
+                "image_url": "https://storage.googleapis.com/vutura/assets/images/WIN_20191205_15_37_49_Pro.jpg",
+                "type": "image"
             },
             {
-                "text" : "HEHEHEHE",
-                "type" : "text"
+                "text": "HEHEHEHE",
+                "type": "text"
             }
         ]
     },
-    "button" : {
+    "button": {
         "chats": [
             {
-                "text" : "Halo ini adalah json-api response text bubble 1, dengan buttons",
-                "type" : "button",
-                "buttons" : [
+                "text": "Halo ini adalah json-api response text bubble 1, dengan buttons",
+                "type": "button",
+                "buttons": [
                     {
-                        "label" : "google",
+                        "label": "google",
                         "type": "url",
-                        "url" : "google.com"
+                        "url": "google.com"
                     },
                     {
-                        "label" : "vutura",
+                        "label": "vutura",
                         "type": "url",
-                        "url" : "vutura.io"
+                        "url": "vutura.io"
                     }
                 ]
             }
         ]
     },
-    "data" : {
-	"key": "val",
-	"arr": [
-		"satu",
-		"dua"
-	],
-	"arrObj": [
-		{
-			"arb1": "asdadsad",
-			"arb2": [
-				"mmmm"
-			]
-		}
-	],
-	"obj": {
-		"aaa": "bbb",
-		"cccc": {
-			"ddd": "xxx"
-		}
-	}
-}
+    "data": {
+        "key": "val",
+        "arr": [
+            "satu",
+            "dua"
+        ],
+        "arrObj": [
+            {
+                "arb1": "asdadsad",
+                "arb2": [
+                    "mmmm"
+                ]
+            }
+        ],
+        "obj": {
+            "aaa": "bbb",
+            "cccc": {
+                "ddd": "xxx"
+            }
+        }
+    }
 }
